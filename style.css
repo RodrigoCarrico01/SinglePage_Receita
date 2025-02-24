@@ -21,8 +21,14 @@ body{
   margin: 48px auto;
 }
 img {
-  border-radius: 16px;  
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 16px;
 }
+
 h1{
   line-height: 140%;
   font-size: 40px;
