@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 <h1 align="center"> Projeto Página de Receita </h1>
 
 <p align="center">
@@ -40,22 +38,3 @@ Este projeto, desenvolvido em aula, faz parte da trilha Full-Stack, promovido pe
 Esse projeto está sob a licença MIT.
 
 ---
-=======
-# Página de Receita - Rocketseat
-
-Este é um projeto simples de uma página estática criada para testar conceitos de HTML e CSS. A página foi baseada num documento do Figma do curso da Rocketseat.
-
-## Tecnologias utilizadas
-- HTML5
-- CSS3
-
-## Objetivo
-Este projeto foi desenvolvido apenas para fins de prática e estudo, sem funcionalidades dinâmicas.
-
-## Como visualizar
-Basta abrir o ficheiro `index.html` num navegador.
-
----
-Feito como parte do curso Rocketseat 🚀
->>>>>>> ecdd87fde12934c9330c41b3bd0644c0a6d55665
-
